@@ -4,7 +4,7 @@
 
 # Enya S.
 
-**Full-Stack Developer · Machine Learning**
+**Developer · Machine Learning**
 
 </div>
 
