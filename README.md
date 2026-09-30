@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%"/>
 
-<img src="https://github.com/user-attachments/assets/89c73943-e179-4213-a6d3-17cd799ecee0" width="150" height="150" style="border-radius: 50%;"/>.
+<img src="https://github.com/user-attachments/assets/89c73943-e179-4213-a6d3-17cd799ecee0" width="150" height="150" style="border-radius: 100%;"/>.
 
 # Enya S.
 
