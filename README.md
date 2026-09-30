@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%"/>
 
+<img src="<img=<img width="1448" height="1086" alt="WhatsApp Image 2026-09-24 at 14 31 07" src="https://github.com/user-attachments/assets/89c73943-e179-4213-a6d3-17cd799ecee0" />
+
+" width="150" height="150" style="border-radius: 50%;"/>.
+
 # Enya S.
 
 **Developer · Machine Learning**
