@@ -63,7 +63,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 <br>
 
-## Vamos construir algo juntos
+## Vamos Criar Algo Juntos!
 
 <div align="center">
 
