@@ -18,7 +18,7 @@ Sou a **Nikitha** — estudante do último ano de Ciência da Computação na Da
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/bf1c6436-2cf7-46be-af78-310d85a3f19f" />)
+![HTMl e CSS](<img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/bf1c6436-2cf7-46be-af78-310d85a3f19f" />)
 
 </div>
 
