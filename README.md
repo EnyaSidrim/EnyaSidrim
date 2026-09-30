@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%"/>
 
-# Nikitha
+# Enya S.
 
 **Full-Stack Developer · Machine Learning**
 
