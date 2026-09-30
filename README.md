@@ -54,7 +54,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 <br>
 
-## 🏆 wins
+## 🏆 WINS
 
 - 🥈 SIH / <SEU_HACKATHON> — 3ª colocada, projeto de mídia cívica
 - 🥇 <SEU_EVENTO> — Chief Guest Award
