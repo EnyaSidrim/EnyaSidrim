@@ -10,7 +10,10 @@
 
 ## Sobre Mim
 
-Oii! me chamo **Enya** — Sou estudante do **2° ano do curso de Informática na EEEP DR. Napoleão Neves da Luz, em Jardim-CE**. Construo Projetos voltados pra T.I utilizando **Python, JavaScript, HTML e CSS, Machine Learning, entre outros**. Busco fazer **Ciências Da Computação ou Engenharia de SoftWare na UFCA** ou **Analise e Desenvolvimento De Sistema (ADS) Na UNINASSAU**. Pretendo também seguir na área principalmente em **FrontAnd ou Machine Learning**.
+Oii! Me chamo **Enya** — sou estudante do **2º ano do curso de Informática na EEEP Dr. Napoleão Neves da Luz, em Jardim-CE**. Desenvolvo projetos voltados para a **Tecnologia da Informação (T.I.)**, utilizando **Python, JavaScript, HTML, CSS, Machine Learning**, entre outras tecnologias.
+
+Busco cursar **Ciência da Computação** ou **Engenharia de Software na UFCA**, ou **Análise e Desenvolvimento de Sistemas (ADS) na UNINASSAU**. Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Machine Learning**.
+
 
 <br>
 
