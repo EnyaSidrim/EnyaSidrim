@@ -8,7 +8,7 @@
 
 </div>
 
-## whoami
+## Sobre Mim
 
 Sou a **Nikitha** — estudante do último ano de Ciência da Computação na Dayananda Sagar University, Bangalore. Construo aplicações web full-stack, modelos de machine learning e já trabalhei em um projeto de pesquisa aplicada de ML para detecção de sintomas de Parkinson (tremor e tapping) por sinais distribuídos. Atualmente aberta a estágios e problemas interessantes.
 
