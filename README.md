@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header](https://i.pinimg.com/1200x/65/ce/77/65ce77ffe39f580c637669cc6b6c623c.jpg)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%"/>
 
 # Enya S.
 
@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Sou a **Nikitha** — estudante do último ano de Ciência da Computação na Dayananda Sagar University, Bangalore. Construo aplicações web full-stack, modelos de machine learning e já trabalhei em um projeto de pesquisa aplicada de ML para detecção de sintomas de Parkinson (tremor e tapping) por sinais distribuídos. Atualmente aberta a estágios e problemas interessantes.
+Oii! me chamo **Enya** — Sou estudante do **2° ano do curso de Informática na EEEP DR. Napoleão Neves da Luz, em Jardim-CE**. Construo Projetos voltados pra T.I utilizando **Python, JavaScript, HTML e CSS, Machine Learning, entre outros**. Busco fazer **Ciências Da Computação ou Engenharia de SoftWare na UFCA** ou **Analise e Desenvolvimento De Sistema (ADS) Na UNINASSAU**. Pretendo também seguir na área principalmente em **FrontAnd ou Machine Learning**.
 
 <br>
 
