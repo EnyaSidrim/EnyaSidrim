@@ -65,11 +65,11 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 ## Gráfico de Atividade
 
-<section align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnyaSidrim&theme=react-dark&hide_border=true" width="100%"/>
 
-</section>
+</div>
 
 <br>
 
