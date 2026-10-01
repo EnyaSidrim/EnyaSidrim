@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%"/>
 
-<img width="1448" height="1086" alt="WhatsApp Image 2026-09-24 at 14 31 07" src="https://github.com/user-attachments/assets/0c5ee53c-29bd-411e-ac10-14e0cb612230" />
-
-
+<img src="./assets/foto.png" width="150" height="150"/>
 
 # Enya S.
 
@@ -14,9 +12,9 @@
 
 _Transformando ideias em interfaces e em inteligência artificial._
 
-</div>
+<img src="./assets/cloud.svg" width="160"/>
 
-<br>
+</div>
 
 ## 🚀 Sobre Mim
 
@@ -26,7 +24,9 @@ Busco cursar **Ciência da Computação** ou **Engenharia de Software na UFCA**,
 
 Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Machine Learning**.
 
-<br>
+<div align="center">
+<img src="./assets/cloud.svg" width="160"/>
+</div>
 
 ## 🤝 Conecte-se
 
@@ -38,7 +38,9 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<br>
+<div align="center">
+<img src="./assets/cloud.svg" width="160"/>
+</div>
 
 ## 💻 Tech Stack
 
@@ -52,7 +54,9 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<br>
+<div align="center">
+<img src="./assets/cloud.svg" width="160"/>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -63,7 +67,9 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<br>
+<div align="center">
+<img src="./assets/cloud.svg" width="160"/>
+</div>
 
 ## 📈 Gráfico de Atividade
 
@@ -73,7 +79,9 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<br>
+<div align="center">
+<img src="./assets/cloud.svg" width="160"/>
+</div>
 
 ## 🏆 Conquistas
 
@@ -82,7 +90,9 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 - 🎨 Concurso de Design de Moda — 2ª colocada
 - 🔬 Pesquisa aplicada em ML
 
-<br>
+<div align="center">
+<img src="./assets/cloud.svg" width="160"/>
+</div>
 
 ## 📫 Vamos Criar Algo Juntos!
 
@@ -95,3 +105,4 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+
