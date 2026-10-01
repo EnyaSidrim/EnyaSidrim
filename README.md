@@ -75,7 +75,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 ## 🏆 WINS
 
-- 🥈 SIH / <SEU_HACKATHON> — 3ª colocada, projeto de mídia cívica
+- 🥈 CEARÁ CIENTÍFICO  — 2ª colocada em Robótica. Projeto: Tradu. libras
 - 🥇 <SEU_EVENTO> — Chief Guest Award
 - 🎨 Concurso de Design de Moda — 2ª colocada
 - 🔬 Pesquisa aplicada em ML
