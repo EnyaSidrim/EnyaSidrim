@@ -12,9 +12,9 @@
 
 _Transformando ideias em interfaces e em inteligência artificial._
 
-<img src="./assets/cloud.svg" width="160"/>
-
 </div>
+
+<br>
 
 ## 🚀 Sobre Mim
 
@@ -24,9 +24,7 @@ Busco cursar **Ciência da Computação** ou **Engenharia de Software na UFCA**,
 
 Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Machine Learning**.
 
-<div align="center">
-<img src="./assets/cloud.svg" width="160"/>
-</div>
+<br>
 
 ## 🤝 Conecte-se
 
@@ -38,9 +36,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<div align="center">
-<img src="./assets/cloud.svg" width="160"/>
-</div>
+<br>
 
 ## 💻 Tech Stack
 
@@ -54,9 +50,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<div align="center">
-<img src="./assets/cloud.svg" width="160"/>
-</div>
+<br>
 
 ## 📊 GitHub Stats
 
@@ -67,9 +61,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<div align="center">
-<img src="./assets/cloud.svg" width="160"/>
-</div>
+<br>
 
 ## 📈 Gráfico de Atividade
 
@@ -79,9 +71,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<div align="center">
-<img src="./assets/cloud.svg" width="160"/>
-</div>
+<br>
 
 ## 🏆 Conquistas
 
@@ -90,9 +80,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 - 🎨 Concurso de Design de Moda — 2ª colocada
 - 🔬 Pesquisa aplicada em ML
 
-<div align="center">
-<img src="./assets/cloud.svg" width="160"/>
-</div>
+<br>
 
 ## 📫 Vamos Criar Algo Juntos!
 
@@ -105,4 +93,3 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
-
