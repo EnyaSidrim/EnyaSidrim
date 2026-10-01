@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%"/>
 
-<img src="https://github.com/user-attachments/assets/04b37762-2ceb-4e25-9b23-6989d736b4ca" width="150" height="150"/>
+<img width="500" height="500" alt="foto_circular" src="https://github.com/user-attachments/assets/9327bce7-1092-40fe-9477-ab9019a72811" />
+
 
 # Enya S.
 
