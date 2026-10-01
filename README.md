@@ -10,7 +10,7 @@
 
 **Oii 👋, prazer Enya**
 
-_Transformando ideias em interfaces e em inteligência artificial._
+_Transformando ideias em **REALIDADE** ._
 
 </div>
 
