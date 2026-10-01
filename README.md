@@ -92,4 +92,4 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/
