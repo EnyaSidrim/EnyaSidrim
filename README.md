@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%"/>
 
-<img width="500" height="500" alt="foto_circular" src="https://github.com/user-attachments/assets/9327bce7-1092-40fe-9477-ab9019a72811" />
+<img width="1448" height="1086" alt="WhatsApp Image 2026-09-24 at 14 31 07" src="https://github.com/user-attachments/assets/0c5ee53c-29bd-411e-ac10-14e0cb612230" />
+
 
 
 # Enya S.
