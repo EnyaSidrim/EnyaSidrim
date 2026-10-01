@@ -16,9 +16,9 @@ _Transformando ideias em interfaces e em inteligência artificial._
 
 <br>
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-Me chamo **Enya** — sou estudante do **2º ano do curso de Informática na EEEP Dr. Napoleão Neves da Luz, em Jardim-CE**. Desenvolvo projetos voltados para a **Tecnologia da Informação (T.I.)**, utilizando **Python, JavaScript, HTML, CSS, Machine Learning**, entre outras tecnologias.
+Oii! Me chamo **Enya** — sou estudante do **2º ano do curso de Informática na EEEP Dr. Napoleão Neves da Luz, em Jardim-CE**. Desenvolvo projetos voltados para a **Tecnologia da Informação (T.I.)**, utilizando **Python, JavaScript, HTML, CSS, Machine Learning**, entre outras tecnologias.
 
 Busco cursar **Ciência da Computação** ou **Engenharia de Software na UFCA**, ou **Análise e Desenvolvimento de Sistemas (ADS) na UNINASSAU**.
 
@@ -26,11 +26,11 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 <br>
 
-## 🤝 Conecte-se
+## Conecte-se
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO_GITHUB)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnyaSidrim)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enyaglsidrim@gmail.com)
 
@@ -38,7 +38,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 <br>
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 <br>
 
-## 📈 Gráfico de Atividade
+## Gráfico de Atividade
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 <br>
 
-## 🏆 Conquistas
+## 🏆 WINS
 
 - 🥈 SIH / <SEU_HACKATHON> — 3ª colocada, projeto de mídia cívica
 - 🥇 <SEU_EVENTO> — Chief Guest Award
@@ -82,7 +82,7 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 
 <br>
 
-## 📫 Vamos Criar Algo Juntos!
+## Vamos Criar Algo Juntos!
 
 <div align="center">
 
