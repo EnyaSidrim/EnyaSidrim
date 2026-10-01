@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header" width="100%"/>
 
-<img src="./assets/foto.png" width="150" height="150"/>
+<img src="https://github.com/user-attachments/assets/99fc9f26-ff25-4f0b-b897-46f27bf183b0" width="150" height="150"/>
 
 # Enya S.
 
-### Front-end Developer · Machine Learning
+### Developer · Machine Learning
 
-**Oii 👋, Imma Enya**
+**Oii 👋, prazer Enya**
 
 _Transformando ideias em interfaces e em inteligência artificial._
 
