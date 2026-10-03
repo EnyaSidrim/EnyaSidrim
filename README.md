@@ -76,10 +76,6 @@ Pretendo seguir na área de tecnologia, principalmente com **Front-end** ou **Ma
 ## 🏆 WINS
 
 - 🥈 CEARÁ CIENTÍFICO  — 2ª colocada em Robótica. Projeto: Tradu. libras
-- 🥇 <SEU_EVENTO> — Chief Guest Award
-- 🎨 Concurso de Design de Moda — 2ª colocada
-- 🔬 Pesquisa aplicada em ML
-
 <br>
 
 ## Vamos Criar Algo Juntos!
